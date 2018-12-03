@@ -1,1 +1,1 @@
-# BASH-Practise-
+# BASH-Practice-
